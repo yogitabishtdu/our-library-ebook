@@ -1,0 +1,51 @@
+.container{
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  width: 70vw;
+  font-size: 24px;
+  height: 50px;
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  font-family: fantasy;
+  font-weight: bold;
+}
+h1{
+  color: beige;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  width:40vw;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  font-size: 50px;
+  margin-top: 50px;
+  text-shadow: 2px 2px red;
+}
+.submit-btn{
+  background-color: grey;
+  margin:5px;
+}
+input{
+  margin:5px;
+}
+.display-data{
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.home{
+  background-image: url("/src/images/henry-be-lc7xcWebECc-unsplash.jpg");
+  filter: brightness(1.0);
+  height: 100%; 
+  background-position: center; 
+  background-repeat: repeat; 
+  background-size: cover; 
+}
+
